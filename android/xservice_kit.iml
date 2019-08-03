@@ -89,14 +89,17 @@
       <sourceFolder url="file://$MODULE_DIR$/../example/build/xservice_kit/generated/source/apt/test/debug" isTestSource="true" generated="true" />
       <excludeFolder url="file://$MODULE_DIR$/../example/build/xservice_kit/intermediates/aapt_friendly_merged_manifests" />
       <excludeFolder url="file://$MODULE_DIR$/../example/build/xservice_kit/intermediates/annotation_processor_list" />
+      <excludeFolder url="file://$MODULE_DIR$/../example/build/xservice_kit/intermediates/annotations_typedef_file" />
+      <excludeFolder url="file://$MODULE_DIR$/../example/build/xservice_kit/intermediates/annotations_zip" />
       <excludeFolder url="file://$MODULE_DIR$/../example/build/xservice_kit/intermediates/check-manifest" />
       <excludeFolder url="file://$MODULE_DIR$/../example/build/xservice_kit/intermediates/incremental" />
       <excludeFolder url="file://$MODULE_DIR$/../example/build/xservice_kit/intermediates/intermediate-jars" />
       <excludeFolder url="file://$MODULE_DIR$/../example/build/xservice_kit/intermediates/javac" />
       <excludeFolder url="file://$MODULE_DIR$/../example/build/xservice_kit/intermediates/jniLibs" />
+      <excludeFolder url="file://$MODULE_DIR$/../example/build/xservice_kit/intermediates/library_and_local_jars_jni" />
       <excludeFolder url="file://$MODULE_DIR$/../example/build/xservice_kit/intermediates/library_assets" />
-      <excludeFolder url="file://$MODULE_DIR$/../example/build/xservice_kit/intermediates/lint_jar" />
       <excludeFolder url="file://$MODULE_DIR$/../example/build/xservice_kit/intermediates/merged_manifests" />
+      <excludeFolder url="file://$MODULE_DIR$/../example/build/xservice_kit/intermediates/packaged-classes" />
       <excludeFolder url="file://$MODULE_DIR$/../example/build/xservice_kit/intermediates/packaged_res" />
       <excludeFolder url="file://$MODULE_DIR$/../example/build/xservice_kit/intermediates/public_res" />
       <excludeFolder url="file://$MODULE_DIR$/../example/build/xservice_kit/intermediates/res" />
