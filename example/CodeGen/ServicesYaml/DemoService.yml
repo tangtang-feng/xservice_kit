@@ -1,0 +1,24 @@
+name : DemoService
+
+messages:
+
+ -
+  name : MessageToFlutter
+  returnType : Map
+  messageType : native
+  channelType : method
+  args : 
+   -
+    name : message
+    type : String
+
+ -
+  name : MessageToNative
+  returnType : bool
+  messageType : flutter
+  channelType : method
+  args : 
+   -
+    name : message
+    type : String
+

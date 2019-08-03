@@ -1,0 +1,1 @@
+{"messages":[{"args":[{"name":"message","type":"String"}],"channelType":"method","messageType":"native","name":"MessageToFlutter","returnType":"Map"},{"args":[{"name":"message","type":"String"}],"channelType":"method","messageType":"flutter","name":"MessageToNative","returnType":"bool"}],"name":"DemoService1"}
