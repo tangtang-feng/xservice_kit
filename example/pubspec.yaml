@@ -21,7 +21,7 @@ dev_dependencies:
   flutter_test:
     sdk: flutter
 
-  xservice_kit:
+  xservice_kit_androidx:
     path: ../
 
 # For information on the generic Dart part of this file, see the

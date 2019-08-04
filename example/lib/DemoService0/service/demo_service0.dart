@@ -1,6 +1,6 @@
 import 'dart:async';
-import 'package:xservice_kit/ServiceTemplate.dart';
-import 'package:xservice_kit/ServiceGateway.dart';
+import 'package:xservice_kit_androidx/ServiceTemplate.dart';
+import 'package:xservice_kit_androidx/ServiceGateway.dart';
 
 class DemoService0 {
 	static final ServiceTemplate _service = new ServiceTemplate("DemoService0");

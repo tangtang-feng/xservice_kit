@@ -3,7 +3,7 @@
 //
 
 #import "GeneratedPluginRegistrant.h"
-#import <xservice_kit/XserviceKitPlugin.h>
+#import <xservice_kit_androidx/XserviceKitPlugin.h>
 
 @implementation GeneratedPluginRegistrant
 

@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'dart:async';
 
 import 'package:flutter/services.dart';
-import 'package:xservice_kit/xservice_kit.dart';
+import 'package:xservice_kit_androidx/xservice_kit.dart';
 import 'package:xservice_kit_example/loader/service_loader.dart';
 import 'package:xservice_kit_example/DemoService0/service/demo_service0.dart';
 

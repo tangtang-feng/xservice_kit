@@ -142,12 +142,12 @@ packages:
       url: "https://pub.flutter-io.cn"
     source: hosted
     version: "2.0.8"
-  xservice_kit:
+  xservice_kit_androidx:
     dependency: "direct dev"
     description:
       path: ".."
       relative: true
     source: path
-    version: "0.0.29"
+    version: "0.0.30"
 sdks:
   dart: ">=2.1.0 <3.0.0"
