@@ -1,8 +1,8 @@
 import 'dart:async';
 
 import 'package:flutter/services.dart';
-import 'package:xservice_kit_androidx/ServiceCallHandler.dart';
-import 'package:xservice_kit_androidx/ServiceGateway.dart';
+import 'package:xservice_kit_androidx/service_call_handler.dart';
+import 'package:xservice_kit_androidx/service_gateway.dart';
 
 class DemoService0MessageToFlutter extends ServiceCallHandler {
 

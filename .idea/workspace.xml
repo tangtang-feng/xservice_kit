@@ -8,7 +8,17 @@
   <component name="ChangeListManager">
     <list default="true" id="59ff7860-f49f-4f82-8bae-d1cf0dc0c008" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/CodeGen/文档 - 快捷方式.lnk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/lib/DemoService/handlers/demo_service_message_to_flutter.dart" beforeDir="false" afterPath="$PROJECT_DIR$/example/lib/DemoService/handlers/demo_service_message_to_flutter.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/lib/DemoService/service/demo_service.dart" beforeDir="false" afterPath="$PROJECT_DIR$/example/lib/DemoService/service/demo_service.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/lib/DemoService0/handlers/demo_service0_message_to_flutter.dart" beforeDir="false" afterPath="$PROJECT_DIR$/example/lib/DemoService0/handlers/demo_service0_message_to_flutter.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/lib/DemoService0/service/demo_service0.dart" beforeDir="false" afterPath="$PROJECT_DIR$/example/lib/DemoService0/service/demo_service0.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/lib/DemoService1/handlers/demo_service1_message_to_flutter.dart" beforeDir="false" afterPath="$PROJECT_DIR$/example/lib/DemoService1/handlers/demo_service1_message_to_flutter.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/lib/DemoService1/service/demo_service1.dart" beforeDir="false" afterPath="$PROJECT_DIR$/example/lib/DemoService1/service/demo_service1.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/example/lib/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/test/widget_test.dart" beforeDir="false" afterPath="$PROJECT_DIR$/example/test/widget_test.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ServiceCallHandler.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/service_call_handler.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ServiceGateway.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/service_gateway.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ServiceTemplate.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/servicet_emplate.dart" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -18,7 +28,20 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="main.dart" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/example/lib/main.dart">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+              <folding>
+                <element signature="e#0#39#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -38,19 +61,20 @@
         <option value="$PROJECT_DIR$/.packages" />
         <option value="$PROJECT_DIR$/example/pubspec.lock" />
         <option value="$PROJECT_DIR$/example/pubspec.yaml" />
-        <option value="$PROJECT_DIR$/example/lib/main.dart" />
         <option value="$PROJECT_DIR$/example/lib/DemoService/handlers/demo_service_message_to_flutter.dart" />
         <option value="$PROJECT_DIR$/example/lib/DemoService/service/demo_service.dart" />
         <option value="$PROJECT_DIR$/example/lib/DemoService0/handlers/demo_service0_message_to_flutter.dart" />
         <option value="$PROJECT_DIR$/example/lib/DemoService0/service/demo_service0.dart" />
         <option value="$PROJECT_DIR$/example/lib/DemoService1/handlers/demo_service1_message_to_flutter.dart" />
         <option value="$PROJECT_DIR$/example/lib/DemoService1/service/demo_service1.dart" />
+        <option value="$PROJECT_DIR$/example/test/widget_test.dart" />
+        <option value="$PROJECT_DIR$/example/lib/main.dart" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="512" />
-    <option name="y" value="12" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="122" />
+    <option name="y" value="-27" />
     <option name="width" value="1760" />
     <option name="height" value="1000" />
   </component>
@@ -62,7 +86,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -83,6 +106,17 @@
             </path>
             <path>
               <item name="xservice_kit_androidx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xservice_kit_androidx" type="462c0819:PsiDirectoryNode" />
+              <item name="example" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xservice_kit_androidx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xservice_kit_androidx" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xservice_kit_androidx" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
@@ -91,6 +125,7 @@
       </pane>
       <pane id="Scope" />
       <pane id="AndroidView" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -184,23 +219,22 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="120" y="0" width="1408" height="800" extended-state="0" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.23305085" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Flutter Performance" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Dart Analysis" order="7" weight="0.32863188" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.37313432" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.33333334" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32909605" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.16716418" />
       <window_info anchor="right" id="Flutter Outline" order="3" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2822222" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25871313" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
@@ -214,6 +248,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.23305085" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -226,13 +261,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="feat: sdk 28" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/pubspec.lock">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="16" lean-forward="true" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/example/pubspec.yaml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-921" />
@@ -408,7 +436,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/ServiceTemplate.dart">
+    <entry file="file://$PROJECT_DIR$/lib/servicet_emplate.dart">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-2280">
           <caret column="7" selection-start-column="7" selection-end-column="7" />
@@ -473,13 +501,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/example/lib/main.dart">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="4" column="27" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/example/lib/DemoService0/handlers/demo_service0_message_to_flutter.dart">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
@@ -529,6 +550,26 @@
     <entry file="file://$PROJECT_DIR$/.idea/xservice_kit_androidx.iml">
       <provider selected="true" editor-type-id="text-editor">
         <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/example/test/widget_test.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="e#0#902#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/example/lib/main.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
       </provider>
     </entry>
   </component>

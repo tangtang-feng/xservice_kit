@@ -1,6 +1,6 @@
 
-import 'ServiceTemplate.dart';
-import 'ServiceCallHandler.dart';
+import 'servicet_emplate.dart';
+import 'service_call_handler.dart';
 
 
 class ServiceGateway{

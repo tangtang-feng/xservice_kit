@@ -3,31 +3,29 @@ import 'dart:async';
 
 import 'package:flutter/services.dart';
 import 'package:xservice_kit_androidx/xservice_kit.dart';
-import 'package:xservice_kit_example/loader/service_loader.dart';
-import 'package:xservice_kit_example/DemoService0/service/demo_service0.dart';
 
 void main(){
-  ServiceLoader.load();
+//  ServiceLoader.load();
 
   runApp(new MyApp());
 
   print("Sending flutter message");
-  DemoService0.MessageToNative("This is message from flutter",(Exception e){
-    return false;
-  }).then((bool value){
-    if(value){
-      print("Sending flutter message to native. succuess");
-    }else{
-      print("Sending flutter message to native. failed");
-    }
-  });
-
-  DemoService0.service().addEventListner("test", (String event,Map<dynamic,dynamic> params){
-    print("Recieved broadcast event from native $event $params");
-  });
-
-  print("Sending broadcast event to native");
-  DemoService0.service().emitEvent("test", {});
+//  DemoService0.MessageToNative("This is message from flutter",(Exception e){
+//    return false;
+//  }).then((bool value){
+//    if(value){
+//      print("Sending flutter message to native. succuess");
+//    }else{
+//      print("Sending flutter message to native. failed");
+//    }
+//  });
+//
+//  DemoService0.service().addEventListner("test", (String event,Map<dynamic,dynamic> params){
+//    print("Recieved broadcast event from native $event $params");
+//  });
+//
+//  print("Sending broadcast event to native");
+//  DemoService0.service().emitEvent("test", {});
 
 }
 
